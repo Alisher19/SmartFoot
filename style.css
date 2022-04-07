@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  color: rgb(244, 58, 52);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: rgba(249, 250, 252, 0.973);
+  font-size: 20px;
+  text-align: center;
+}
+.tips {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: rgba(249, 250, 252, 0.973);
+  font-size: 15px;
+}
+body {
+  background:rgba(0,0,0,0.5) url(https://avvenice.com/img/cms/CR7%20-%20CRISTIANO%20RONALDO/1%20a%20Avvenice%20-%20%20CR7%20-%20New%20Collection%20-%20Cristiano%20Ronaldo%20Official%20-%20Models%20-%20Fashion%20-%20Milano%20-%20Underwear%20-%20Black%20and%20White%20-%20Fragrance%20-%20Red%20Blue%20-%20Luxury%20-%20Montenapoleone%20-%20Milano.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: darken;
+}
+a {
+  font-size:30px;
+  background-color: rgb(161, 161, 161);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  align-items: center;
+}
